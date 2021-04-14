@@ -1,0 +1,60 @@
+# YelpCampUser Experience when not logged in: 
+Landing Page: 
+ 
+
+View All Campgrounds: 
+ 
+
+View Single Campground:
+ 
+•	All users are able to see any comments that have been made 
+
+Trying to add Campground:
+ 
+
+
+User Experience when Logging in
+Login: 
+ 
+
+View All Campgrounds: 
+ 
+
+View Single Campground: 
+ 
+
+•	If the comment belongs to the current user, they are authorized to delete it. 
+•	If the comment does not belong to them, then they are only able to view it, as shown below:
+
+ 
+
+
+
+Add Campground: 
+ 
+
+After adding campground: 
+ 
+
+
+
+
+
+
+Edit Campground: 
+ 
+
+Updated Campground: 
+ 
+
+
+
+
+
+
+Delete Campground: 
+ 
+
+Logout:
+  
+
