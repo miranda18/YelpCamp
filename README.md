@@ -2,10 +2,10 @@
 
 The purpose of this Yelp Camp project was to understand the fundamentals of full stack web development. Yelp Camp has similar functionality of Yelp where 
 a user can add a campground, or campgrounds, and add comments to their own added campground, as well as other user’s campgrounds. They are only authorized 
-to perform these mentioned actions if they are a registered user. Please see below the user experience from someone who is not logged in vs someone who is logged in. 
+to perform these mentioned actions if they are logged in and a registered user. Please see below the user experience from someone who is not logged in vs someone who is logged in. 
 
 
-## User Experience when not logged in: 
+## User experience when not logged in: 
 
 **Landing Page:**
 
@@ -29,7 +29,7 @@ to perform these mentioned actions if they are a registered user. Please see bel
 ![image](https://user-images.githubusercontent.com/17749621/114781133-e4ac6000-9d3d-11eb-97c5-549c53f2f9ad.png)
 
 
-## User Experience when Logging in
+## User experience when logged in:
 **Login:** 
  
  ![image](https://user-images.githubusercontent.com/17749621/114781152-ea09aa80-9d3d-11eb-813e-2ec7f5cc773c.png)
