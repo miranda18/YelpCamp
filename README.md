@@ -5,13 +5,14 @@ a user can add a campground, or campgrounds, and add comments to their own added
 to perform these mentioned actions if they are a registered user. Please see below the user experience from someone who is not logged in vs someone who is logged in. 
 
 
-##User Experience when not logged in: 
+## User Experience when not logged in: 
 
 **Landing Page:**
+
  ![image](https://user-images.githubusercontent.com/17749621/114780312-d4e04c00-9d3c-11eb-8273-06115fae45d3.png)
 
 
-**View All Campgrounds: **
+** View All Campgrounds: **
  ![image](https://user-images.githubusercontent.com/17749621/114780685-5801a200-9d3d-11eb-83f0-1400ec020863.png)
 
 
